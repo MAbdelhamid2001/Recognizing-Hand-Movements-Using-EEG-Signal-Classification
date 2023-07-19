@@ -1,10 +1,14 @@
 # Recognizing-Hand-Movements-Using-EEG-Signal-Classification
+Using the following system architecture we managed to classify 6 different hand movements  (Forward, Backward, Left, Right, UP, Dawn)
+for both the real movement and the imagery movement (Motor imagery)
+
 * system architecture:
 
 ![image](https://github.com/MAbdelhamid2001/Recognizing-Hand-Movements-Using-EEG-Signal-Classification/assets/81767517/0bb04a50-2466-4f29-967e-5bbbd016e88b)
 
 Methodology :
-3 different feature extraction techniques
+
+we used 3 different feature extraction techniques
   1. Discrete wavelet transform (DWT)
   2. Common Spatial Pattern (CSP)
   3. Extracting statistical features
