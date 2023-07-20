@@ -39,8 +39,8 @@ Also, we used deep learning methods such as CNN, LSTM, and EEGNET architecture.
 
 * Deployment
   
-  we used Unity and Blender for creating a simulator for the movements
-
+  * we used Unity and Blender for creating a simulator for the movements.
+  * The simulator can be found here: https://drive.google.com/file/d/1mrWMTimOA4dxspdH9cZ9dznV2-6pDoZW/view?usp=sharing
 
   ![image](https://github.com/MAbdelhamid2001/Recognizing-Hand-Movements-Using-EEG-Signal-Classification/assets/81767517/2acc8588-e955-4fef-8810-ef44c380d81e)
 
